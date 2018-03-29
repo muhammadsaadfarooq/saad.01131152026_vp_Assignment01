@@ -1,0 +1,17 @@
+c:\users\muham\source\repos\newApp Student\newApp Student\bin\Debug\newApp Student.exe.config
+c:\users\muham\source\repos\newApp Student\newApp Student\bin\Debug\newApp Student.exe
+c:\users\muham\source\repos\newApp Student\newApp Student\bin\Debug\newApp Student.pdb
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp_Student.Form1.resources
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp_Student.Properties.Resources.resources
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp Student.csproj.GenerateResource.Cache
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp Student.csproj.CoreCompileInputs.cache
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp Student.exe
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp Student.pdb
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp Student.csprojResolveAssemblyReference.cache
+c:\users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp_Student.get_userData.resources
+C:\Users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp_Student.searching.resources
+C:\Users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp_Student.Detail_form.resources
+C:\Users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp_Student.Delete_student.resources
+C:\Users\muham\source\repos\newApp Student\newApp Student\obj\Debug\newApp_Student.top3_students.resources
+C:\Users\muham\source\repos\newApp Student\newApp Student\bin\Debug\database_conct.mdf
+C:\Users\muham\source\repos\newApp Student\newApp Student\bin\Debug\database_conct_log.ldf
